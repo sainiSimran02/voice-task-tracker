@@ -13,19 +13,11 @@ date**, and **status**.
 #### Node.js
 
 -   Version: v18+
-
-```{=html}
-<!-- -->
-```
     node -v
 
 #### MongoDB (Atlas)
 
 -   Connection string:
-
-```{=html}
-<!-- -->
-```
     mongodb+srv://<USER>:<PASSWORD>@cluster.mongodb.net/voice_tasks
 
 ------------------------------------------------------------------------
